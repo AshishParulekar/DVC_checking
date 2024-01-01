@@ -1,0 +1,6 @@
+[core]
+    remote = checking
+['remote "myremote"']
+    url = /tmp/dvcstore
+['remote "checking"']
+    url = C:\Users\Ashish_Parulekar\Desktop\One\Claud

@@ -58,6 +58,7 @@ target/
 
 # DotEnv configuration
 .env
+.venv
 
 # Database
 *.db
@@ -77,6 +78,7 @@ target/
 
 # exclude data from source control by default
 /data/
+/models/
 
 # Mac OS-specific storage files
 .DS_Store
@@ -87,3 +89,7 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+
+/data
+/models
